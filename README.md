@@ -73,4 +73,5 @@ Sample logs for MARKET and LIMIT orders can be found in the `logs/` directory af
 - The system has Python 3.7+ installed.
 
 ![alt text](<Screenshot (129).png>)
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/451ee310-1adc-4811-a06d-24349ed1b1ef" />
 
